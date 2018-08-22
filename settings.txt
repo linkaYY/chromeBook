@@ -1,0 +1,52 @@
+{
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "off",
+    "php.validate.executablePath": "D:/phpStudy/php/php-7.0.12-nts/php.exe",
+    "emmet.triggerExpansionOnTab": true,
+    "php.executablePath": "D:/phpStudy/php/php-7.0.12-nts/php.exe",
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "highlight-matching-tag.leftStyle": {
+        "borderWidth": "0 0 0 6px",
+        "borderStyle": "solid",
+        "borderColor": "hotpink",
+        "borderRadius": "5px"
+    },
+    "highlight-matching-tag.rightStyle": {
+        "borderWidth": "0 6px 0 0",
+        "borderStyle": "solid",
+        "borderColor": "skyblue",
+        "borderRadius": "5px"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "bracketPairColorizer.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {yellow}; opacity: 0.5"
+    ],
+    "px-to-rem.px-per-rem": 16,
+    "[javascript]": {},
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "files.associations": {
+        "*.art": "html"
+    },
+    "workbench.colorTheme": "Dracula",
+    "sync.gist": "9fc3fe801b05c502931bf7a4bd8ffbc3",
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastUpload": "2018-08-01T03:15:06.088Z",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "search.followSymlinks": false,
+    "vetur.validation.template": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.rendererType": "dom",
+}
